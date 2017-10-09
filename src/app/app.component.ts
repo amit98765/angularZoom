@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ZoomitComponent } from './zoomit/zoomit.component';
 
 @Component({
   selector: 'app-root',

@@ -2,10 +2,12 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
+import { ZoomitComponent } from './zoomit/zoomit.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ZoomitComponent
   ],
   imports: [
     BrowserModule
